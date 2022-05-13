@@ -1,0 +1,16 @@
+Link para download git (https://git-scm.com/)
+
+-Comandos importantes:
+
+* cd > (navegar por pastas)
+* cd .. > (retroceder pasta)
+* ls > (listar)
+* git init > (iniciar repositorio do git)
+* git add > (Dar inicio ao versionamento)
+* git clone > (clonar repositório)
+* git status
+* git commit -m "Mensagem exemplo" 
+* git remote add origin LINK  > [link do repositório] (adiciona o repositório local em um repositório remoto)
+* git push origin master > [master ou o nome da branch] (emprurra para o repositório remoto)
+*git pull origin master >  [master ou o nome da branch] (puxa a versão mais atualizada do repositorio)
+
